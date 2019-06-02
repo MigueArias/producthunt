@@ -34,6 +34,7 @@ gem 'annotate'
 
 gem "image_processing", "~> 1.2"
 gem "mini_magick", "~> 4.8"
+gem "aws-sdk-s3", require: false
 
 
 # Use ActiveStorage variant
